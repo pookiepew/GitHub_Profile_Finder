@@ -1,0 +1,15 @@
+{
+  "name": "githubapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Glen Sørbø",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^4.0.0",
+    "electron-reload": "^1.4.0"
+  }
+}
